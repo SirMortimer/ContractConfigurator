@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContractConfigurator", "ContractConfigurator\ContractConfigurator.csproj", "{4082B9BC-243E-456D-A9C5-705F4428EB36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC_RemoteTech", "CC_RemoteTech\CC_RemoteTech.csproj", "{AA91A060-C3CA-4770-8B39-F053E6ADAB5F}"
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "CC_RemoteTech", "CC_RemoteTech\CC_RemoteTech.csproj", "{EEA41C58-73CF-4CC7-A618-100E23EEE9F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KerKonConConExt", "KerKonConConExt\KerKonConConExt.csproj", "{C733C176-867C-4B72-B979-1004A1A4F193}"
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "KerKonConConExt", "KerKonConConExt\KerKonConConExt.csproj", "{F3358D34-063E-4F88-9CF8-1CC6A55134A9}"
 	ProjectSection(ProjectDependencies) = postProject
 		{4082B9BC-243E-456D-A9C5-705F4428EB36} = {4082B9BC-243E-456D-A9C5-705F4428EB36}
 	EndProjectSection
@@ -22,14 +22,14 @@ Global
 		{4082B9BC-243E-456D-A9C5-705F4428EB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4082B9BC-243E-456D-A9C5-705F4428EB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4082B9BC-243E-456D-A9C5-705F4428EB36}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AA91A060-C3CA-4770-8B39-F053E6ADAB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA91A060-C3CA-4770-8B39-F053E6ADAB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AA91A060-C3CA-4770-8B39-F053E6ADAB5F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA91A060-C3CA-4770-8B39-F053E6ADAB5F}.Release|Any CPU.Build.0 = Debug|Any CPU
-		{C733C176-867C-4B72-B979-1004A1A4F193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C733C176-867C-4B72-B979-1004A1A4F193}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C733C176-867C-4B72-B979-1004A1A4F193}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C733C176-867C-4B72-B979-1004A1A4F193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA41C58-73CF-4CC7-A618-100E23EEE9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA41C58-73CF-4CC7-A618-100E23EEE9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA41C58-73CF-4CC7-A618-100E23EEE9F7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA41C58-73CF-4CC7-A618-100E23EEE9F7}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F3358D34-063E-4F88-9CF8-1CC6A55134A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3358D34-063E-4F88-9CF8-1CC6A55134A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3358D34-063E-4F88-9CF8-1CC6A55134A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3358D34-063E-4F88-9CF8-1CC6A55134A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
